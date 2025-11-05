@@ -2,7 +2,7 @@
 
 **TEdgeGoogleMapViewer**: a Delphi "WebView2" Component to View Google Map with integrated Routing and Markers Support
 
-### Actual official version 1.6.3 (VCL)
+### Actual official version 1.6.4 (VCL)
 
 | Component | Description |
 | - | - |
@@ -157,7 +157,10 @@ Load Customer Table, scroll down the table: for every record a Marker is added t
 No documentation available, but the Demo explain very well the use of the component.
 
 ### RELEASE NOTES
-05 Nov 2025 - Version 1.6.3
+05 Nov 2025 - Version 1.6.4
+- Fixed Setup
+
+05 Nov 2025 - Version 1.6.3 (deprecated)
 - Added new properties inherited from TEdgeBrowser
 - Added new published property MapAPIKey
 

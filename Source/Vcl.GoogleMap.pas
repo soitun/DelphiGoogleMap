@@ -52,7 +52,7 @@ resourcestring
 
 const
   DEFAULT_ZOOM_FACTOR = 15;
-  DelphiGoogleMapViewerVersion = '1.6.3';
+  DelphiGoogleMapViewerVersion = '1.6.4';
 
 Type
   EGoogleMapError = Exception;

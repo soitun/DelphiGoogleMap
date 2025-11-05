@@ -2,7 +2,7 @@
     <PropertyGroup>
         <ProjectGuid>{30641010-7F19-4BC6-A345-5657EDB9F0B3}</ProjectGuid>
         <MainSource>dclDelphiGoogleMap.dpk</MainSource>
-        <ProjectVersion>20.3</ProjectVersion>
+        <ProjectVersion>20.2</ProjectVersion>
         <FrameworkType>VCL</FrameworkType>
         <Base>True</Base>
         <Config Condition="'$(Config)'==''">Release</Config>
